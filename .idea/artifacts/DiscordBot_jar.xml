@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DiscordBot:jar">
+    <output-path>$USER_HOME$/Project/DiscordBot</output-path>
+    <root id="archive" name="DiscordBot.jar">
+      <element id="module-output" name="DiscordBot" />
+      <element id="library" level="project" name="Maven: net.dv8tion:JDA:VERSION" />
+    </root>
+  </artifact>
+</component>
