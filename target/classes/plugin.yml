@@ -1,5 +1,5 @@
 name: DiscordBot
-version: 1.0
+version: 1.1
 author: Rojen
-main: nepal.rojen.discordbot.DiscordBot
+main: me.rojen11.discordbot.DiscordBot
 api-version: 1.14

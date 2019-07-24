@@ -5,7 +5,7 @@
   <artifactId>com.DiscordBot</artifactId>
   <version>1.0-SNAPSHOT</version>
   <build>
-    <finalName>DiscordBot-uber</finalName>
+    <finalName>DiscordBot</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -28,7 +28,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>nepal.rojen.discordbot.DiscordBot</mainClass>
+                  <mainClass>me.rojen11.discordbot.DiscordBot</mainClass>
                 </transformer>
               </transformers>
               <minimizeJar>true</minimizeJar>

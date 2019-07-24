@@ -1,0 +1,11 @@
+# Discord Bot token
+token: 
+
+# Discord Guild Id
+guildId:
+
+#Discord Text Channel Id
+textChannelId:
+
+#Discord Role to allow sending message to the server
+roleId:
